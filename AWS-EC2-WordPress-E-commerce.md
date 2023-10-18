@@ -22,6 +22,13 @@ To get started with this project, follow these steps:
 
 1. **Launch an EC2 Instance**: Use AWS EC2 to launch an instance. Make sure to select an appropriate instance type, configure security groups, and set up key pair authentication.
 
+For this simple project, I used Ubuntu Server 22.04 LTS with a t2.micro instance. Organizations may require larger instances depending on their organizational needs. A key pair is also generated for secure login; ensure that the key is not shared so that others cannot log in. I will be using the default Virtual Private Cloud (VPC) with the only change in configuration being to the security group to allow HTTP and HTTPS traffic.
+
+![Launch EC2 Instance](https://i.imgur.com/8C48l4g.png)
+![Launch EC2 Instance](https://i.imgur.com/gpdPlZ9.png)
+![Launch EC2 Instance](https://i.imgur.com/RWGqUq2.png)
+
+
 2. **Install and Configure LEMP Stack**: Install and configure the LEMP stack components on your EC2 instance. You can follow our documentation in the [**LEMP-Installation-Guide**](LEMP-Installation-Guide.md) for detailed instructions.
 
 3. **Install WordPress**: Install and configure WordPress on your EC2 instance. Create the necessary database, configure Nginx to serve your site, and install required plugins and themes.
