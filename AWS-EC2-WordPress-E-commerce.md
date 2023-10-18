@@ -2,7 +2,7 @@
 
 Welcome to my AWS repository showcasing a project for hosting an e-commerce website using WordPress, a LEMP (Linux, Nginx, MySQL, PHP) stack, and securing it with an SSL certificate.
 
-![E-commerce Website](ecommerce.jpg)
+![E-commerce Website](https://i.imgur.com/G1ilhhx.png)
 
 ## Project Overview
 
