@@ -47,3 +47,4 @@ cd /etc/nginx/sites-available/
 sudo vim wordpress.conf
 ```
 
+
