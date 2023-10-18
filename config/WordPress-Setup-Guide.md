@@ -117,17 +117,20 @@ By now our DNS propagation should have completed. We can finish installing WordP
 
 
 
+![wordpress setup](https://i.imgur.com/AfKiRv1.png)
+
+![wordpress setup](https://i.imgur.com/mkeSA8U.png)
 
 
 
 
 
 
+<br>You should now be able to view your WordPress Welcome page on the landing page of your domain.<br>
 
 
 
-
-
+![wordpress welcome](https://i.imgur.com/nZLpr7p.png)
 
 
 
