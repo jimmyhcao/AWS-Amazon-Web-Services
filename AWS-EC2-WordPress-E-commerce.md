@@ -55,7 +55,7 @@ For this project I used the WooCommerce plug in with a store front theme. You ca
 
 - [**WordPress-Setup-Guide.md**](config/WordPress-Setup-Guide.md): Instructions for installing and setting up WordPress on your server.
 
-- [**SSL-Configuration-Guide.md**](SSL-Configuration-Guide.md): Detailed steps for securing your site with an SSL certificate.
+- [**SSL-Configuration-Guide.md**](config/SSL-Configuration-Guide.md): Detailed steps for securing your site with an SSL certificate.
 
 
 ## Contributions
