@@ -46,6 +46,6 @@ Contributions to this project are welcome! If you find issues or have suggestion
 
 ## Contact
 
-If you have any questions or need assistance, you can reach me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or need assistance, you can reach me at [jimmy.h.cao@gmail.com](mailto:jimmy.h.cao@gmail.com).
 
 Enjoy building your e-commerce site on AWS! 🚀
