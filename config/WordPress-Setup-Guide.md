@@ -44,7 +44,7 @@ Navigate to the directory which contains configuration files for the Nginx web s
 
 ```bash
 cd /etc/nginx/sites-available/
-sudo vim wordpress.conf
+sudo nano wordpress.conf
 ```
 
 
