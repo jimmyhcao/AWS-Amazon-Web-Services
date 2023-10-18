@@ -2,7 +2,7 @@
 
 Welcome to my AWS repository showcasing a project for hosting an e-commerce website using WordPress, a LEMP (Linux, Nginx, MySQL, PHP) stack, and securing it with an SSL certificate.
 
-![E-commerce Website](https://i.imgur.com/G1ilhhx.png)
+![E-commerce Website](https://i.imgur.com/2j5TJFh.png)
 
 ## Project Overview
 
@@ -57,6 +57,14 @@ For this project I used the WooCommerce plug in with a store front theme. You ca
 
 - [**SSL-Configuration-Guide.md**](config/SSL-Configuration-Guide.md): Detailed steps for securing your site with an SSL certificate.
 
+
+<br>
+
+## Final Project
+After going through all configurations, this is what the landing page looks like. This is a very simplistic ecommerce website hosted on AWS; future projects will build upon this instance.
+
+
+![E-commerce Website](https://i.imgur.com/G1ilhhx.png)
 
 ## Contributions
 
