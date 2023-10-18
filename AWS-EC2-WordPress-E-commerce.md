@@ -48,7 +48,7 @@ For this simple project, I used Ubuntu Server 22.04 LTS with a t2.micro instance
 
 - [**LEMP-Installation-Guide.md**](config/LEMP-Installation-Guide.md): A step-by-step guide for installing and configuring the LEMP stack on your EC2 instance.
 
-- [**WordPress-Setup-Guide.md**](WordPress-Setup-Guide.md): Instructions for installing and setting up WordPress on your server.
+- [**WordPress-Setup-Guide.md**](config/WordPress-Setup-Guide.md): Instructions for installing and setting up WordPress on your server.
 
 - [**SSL-Configuration-Guide.md**](SSL-Configuration-Guide.md): Detailed steps for securing your site with an SSL certificate.
 
