@@ -4,9 +4,9 @@ Welcome to my AWS Homelab Projects repository! Here, I showcase various AWS proj
 
 ## Project List
 
-1. [**Project 1: Simple AWS EC2 Web Server**](project1/README.md)
+1. [**Project 1: Simple AWS EC2 Web Server**](AWS EC2 WordPress E-commerce.md)
    - Description: Setting up a basic EC2 web server using AWS, to host a ecomerence website using Wordpress.
-   - Code Repository: [Link](project1/)
+   - Code Repository: [AWS EC2 WordPress E-commerce.md](project1/)
 
 
 ## Getting Started
