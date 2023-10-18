@@ -42,6 +42,11 @@ For this simple project, I used Ubuntu Server 22.04 LTS with a t2.micro instance
 
 6. **Customize Your Website**: Customize your WordPress website, add products, and configure your e-commerce platform according to your requirements.
 
+For this project I used the WooCommerce plug in with a store front theme. You can refer to the following videos for guidance on how to set up plug ins and themes on WordPress:
+<li><a href="https://www.youtube.com/watch?v=W2zgKUFJflE" target="_blank">Plugins</a>
+
+<li><a href="https://www.youtube.com/watch?v=8v6VARvAjFE" target="_blank">Themes</a></li><br>
+
 7. **Launch Your E-commerce Site**: Once everything is set up, you're ready to launch your e-commerce website and start serving customers securely.
 
 ## Project Documentation
