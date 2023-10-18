@@ -29,15 +29,20 @@ For this simple project, I used Ubuntu Server 22.04 LTS with a t2.micro instance
 ![Launch EC2 Instance](https://i.imgur.com/RWGqUq2.png)
 
 
-2. **Install and Configure LEMP Stack**: Install and configure the LEMP stack components on your EC2 instance. You can follow our documentation in the [**LEMP-Installation-Guide**](LEMP-Installation-Guide.md) for detailed instructions.
+2. **Associate Elastic IP and Configure DNS with Route 53**: Ensure your EC2 instance has a stable public IP address by associating an Elastic IP. Then, set up domain management using Amazon Route 53 for secure and reliable DNS resolution.
 
-3. **Install WordPress**: Install and configure WordPress on your EC2 instance. Create the necessary database, configure Nginx to serve your site, and install required plugins and themes.
+   ![Elastic IP](https://i.imgur.com/NpbYUdN.png)
+   ![Route 53](https://i.imgur.com/IdBbCXx.png)
 
-4. **Secure with SSL**: Acquire an SSL certificate (e.g., Let's Encrypt) and configure Nginx to use SSL. This ensures a secure and encrypted connection for your e-commerce site.
+3. **Install and Configure LEMP Stack**: Install and configure the LEMP stack components on your EC2 instance. You can follow our documentation in the [**LEMP-Installation-Guide**](LEMP-Installation-Guide.md) for detailed instructions.
 
-5. **Customize Your Website**: Customize your WordPress website, add products, and configure your e-commerce platform according to your requirements.
+4. **Install WordPress**: Install and configure WordPress on your EC2 instance. Create the necessary database, configure Nginx to serve your site, and install required plugins and themes.
 
-6. **Launch Your E-commerce Site**: Once everything is set up, you're ready to launch your e-commerce website and start serving customers securely.
+5. **Secure with SSL**: Acquire an SSL certificate (e.g., Let's Encrypt) and configure Nginx to use SSL. This ensures a secure and encrypted connection for your e-commerce site.
+
+6. **Customize Your Website**: Customize your WordPress website, add products, and configure your e-commerce platform according to your requirements.
+
+7. **Launch Your E-commerce Site**: Once everything is set up, you're ready to launch your e-commerce website and start serving customers securely.
 
 ## Project Documentation
 
@@ -46,6 +51,7 @@ For this simple project, I used Ubuntu Server 22.04 LTS with a t2.micro instance
 - [**WordPress-Setup-Guide.md**](WordPress-Setup-Guide.md): Instructions for installing and setting up WordPress on your server.
 
 - [**SSL-Configuration-Guide.md**](SSL-Configuration-Guide.md): Detailed steps for securing your site with an SSL certificate.
+
 
 ## Contributions
 
