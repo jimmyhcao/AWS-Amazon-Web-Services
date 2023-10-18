@@ -34,7 +34,7 @@ For this simple project, I used Ubuntu Server 22.04 LTS with a t2.micro instance
    ![Elastic IP](https://i.imgur.com/NpbYUdN.png)
    ![Route 53](https://i.imgur.com/IdBbCXx.png)
 
-3. **Install and Configure LEMP Stack**: Install and configure the LEMP stack components on your EC2 instance. You can follow our documentation in the [**LEMP-Installation-Guide**](LEMP-Installation-Guide.md) for detailed instructions.
+3. **Install and Configure LEMP Stack**: Install and configure the LEMP stack components on your EC2 instance. You can follow our documentation in the [**LEMP-Installation-Guide**](config/LEMP-Installation-Guide.md) for detailed instructions.
 
 4. **Install WordPress**: Install and configure WordPress on your EC2 instance. Create the necessary database, configure Nginx to serve your site, and install required plugins and themes.
 
