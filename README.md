@@ -6,7 +6,8 @@ Welcome to my AWS Homelab Projects repository! Here, I showcase various AWS proj
 
 1. [**Project 1: Simple AWS EC2 Web Server**](AWS-EC2-WordPress-E-commerce.md)
    - Description: Setting up a basic EC2 web server using AWS, to host a ecomerence website using Wordpress.
-   
+2. [**Project 2: AWS CloudWatch Project - EC2 Instance Monitoring**](CloudWatch.md)
+   - Description: This project showcases the setup of AWS CloudWatch dashboards and alarms to effectively monitor your Amazon EC2 instances.
 
 
 ## Getting Started
