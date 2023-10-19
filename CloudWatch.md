@@ -1,13 +1,13 @@
 # AWS CloudWatch Project - EC2 Instance Monitoring
-
-![AWS CloudWatch Logo](https://i.imgur.com/Rm5OKQQ.png)
-
 This project demonstrates how to set up AWS CloudWatch dashboards and alarms to monitor an Amazon EC2 instance. Monitoring your EC2 instances is crucial to ensure their health and performance.
+
+<p align="center">
+  <img src="https://i.imgur.com/Rm5OKQQ.png" width="600" alt="AWS Logo">
+</p>
 
 ## Prerequisites
 
-Before you begin, make sure you have the following prerequisites in place:
-
+Before you begin, make sure you have the following prerequisites in place: 
 - An AWS account with an Amazon EC2 instance that you want to monitor.
 - AWS IAM (Identity and Access Management) permissions to create and manage CloudWatch resources.
 - AWS CLI installed and configured with necessary credentials.
