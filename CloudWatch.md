@@ -25,40 +25,36 @@ Follow these steps to configure CloudWatch dashboards and alarms for your EC2 in
    - Click "Create Dashboard" and give it a name.
    - Add widgets to your dashboard to display relevant metrics for your EC2 instance.
 
+![dashboard](https://i.imgur.com/cKS4KHo.png)
+![dashboard](https://i.imgur.com/RoSiQbb.png)
+
 2. **Set Up CloudWatch Alarms**:
    - In the CloudWatch console, click on "Alarms" in the left menu.
    - Click "Create Alarm."
    - Select the metric you want to monitor (e.g., CPU utilization).
    - Configure the alarm threshold and actions (e.g., sending an SNS notification).
    - Complete the alarm creation process.
+  
+![alarm](https://i.imgur.com/yKA0dsK.png)
+![alarm](https://i.imgur.com/K6E1bRq.png)
 
-3. **Attach Alarms to Your EC2 Instance**:
-   - In the EC2 console, select your instance.
-   - In the "Monitoring" tab, click on "Create a CloudWatch alarm."
-   - Choose the alarm you created in step 2 and confirm.
-
-4. **Monitor Your EC2 Instance**:
+3. **Monitor Your EC2 Instance**:
    - Your CloudWatch dashboard will now display real-time metrics, and alarms will trigger when thresholds are breached.
 
 ## Usage
 
-Explain how to use your CloudWatch dashboard and alarms to monitor your EC2 instance effectively. Provide examples of common actions, such as responding to alarm notifications.
+Monitoring your EC2 instances using CloudWatch dashboards and alarms enables you to maintain high availability and efficient resource utilization while responding promptly to issues, improving the reliability of your applications and services. Regularly review and adjust your alarms and dashboard configurations as your infrastructure and workloads evolve.
 
-## Contributing
-
-If you'd like to contribute to this project or report issues, please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-Mention any tools, libraries, or resources you used or were inspired by during the project.
 
 ## Contact
 
 For questions or feedback, feel free to contact the project owner:
 
-- [Your Name](mailto:youremail@example.com)
+- [Jimmy](mailto:jimmy.h.cao@gmail.com)
 
