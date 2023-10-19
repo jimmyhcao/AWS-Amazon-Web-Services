@@ -51,5 +51,5 @@ Monitoring your EC2 instances using CloudWatch dashboards and alarms enables you
 
 For questions or feedback, feel free to contact the project owner:
 
-- [Jimmy](mailto:jimmy.h.cao@gmail.com)
+- [📧](mailto:jimmy.h.cao@gmail.com)
 
