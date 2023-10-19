@@ -46,11 +46,6 @@ Follow these steps to configure CloudWatch dashboards and alarms for your EC2 in
 Monitoring your EC2 instances using CloudWatch dashboards and alarms enables you to maintain high availability and efficient resource utilization while responding promptly to issues, improving the reliability of your applications and services. Regularly review and adjust your alarms and dashboard configurations as your infrastructure and workloads evolve.
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
 
 ## Contact
 
