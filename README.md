@@ -2,7 +2,9 @@
 
 Welcome to my AWS Homelab Projects repository! Here, I showcase various AWS projects I've worked on as part of my homelab experiments and learning journey.
 
-![awslogo](https://i.imgur.com/ajz5Abs.png)
+<p align="center">
+  <img src="https://i.imgur.com/ajz5Abs.png" width="500" alt="AWS Logo">
+</p>
 
 ## Project List
 
