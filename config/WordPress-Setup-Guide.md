@@ -117,8 +117,6 @@ By now our DNS propagation should have completed. We can finish installing WordP
 
 
 
-![wordpress setup](https://i.imgur.com/AfKiRv1.png)
-
 ![wordpress setup](https://i.imgur.com/mkeSA8U.png)
 
 
